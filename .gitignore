@@ -1,0 +1,4 @@
+secrets.txt
+
+#Log files to be ignored
+# *.txt = ignore all text files
